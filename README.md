@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Anusha M M, a pre-final year Electrical and Electronics Engineering student from The National Institute of Engineering, Mysuru.</p>
+<p align="left">I'm Anusha M M, a pre-final year electrical and electronics engineering student from The National Institute of Engineering, Mysuru.</p>
 
 ###
 
@@ -61,6 +61,12 @@
 
 ###
 
-<p align="left">Thank you! :) </p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/mys-anusha/count.svg?"  />
+</div>
+
+###
+
+<p align="left">Thank you! :)</p>
 
 ###
