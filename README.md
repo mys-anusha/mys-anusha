@@ -48,19 +48,19 @@
 <div align="left">
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&username=mys-anusha" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&username=mys-anusha" height="150" alt="languages graph"  />
-</div>
-
 ## 📈 Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mys-anusha&show_icons=true&hide_border=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mys-anusha&hide_border=true&theme=radical" />
 </p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&username=mys-anusha" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&username=mys-anusha" height="150" alt="languages graph"  />
+</div>
 
 ###
 
