@@ -63,7 +63,7 @@
 </div>
 
 ###
-<p align="left">Number of Visits</p>
+<p align="center">Number of Visits</p>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/mys-anusha/count.svg?"  />
