@@ -79,9 +79,6 @@
 
 [![@mys_anusha's Holopin board](https://holopin.me/mys_anusha)](https://holopin.io/@mys_anusha)
 
-###
-
-<p align="left">Thank you! :)</p>
 ## Thank you! :) <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 ###
