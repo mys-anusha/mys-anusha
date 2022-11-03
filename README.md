@@ -51,8 +51,8 @@
 ## 📈 Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mys-anusha&show_icons=true&hide_border=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mys-anusha&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mys-anusha&show_icons=true&hide_border=true&theme=midnight-purple" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mys-anusha&hide_border=true&theme=midnight-purple" />
 </p>
 
 ###
@@ -63,10 +63,7 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/mys-anusha/mys-anusha/blob/output/snake.svg" alt="Snake animation" />
-
-###
+<p align="left">Number of Visits</p>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/mys-anusha/count.svg?"  />
@@ -74,7 +71,14 @@
 
 ###
 
+<p align="center">
+   <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
+
+###
+
 [![@mys_anusha's Holopin board](https://holopin.me/mys_anusha)](https://holopin.io/@mys_anusha)
+
 ###
 
 <p align="left">Thank you! :)</p>
