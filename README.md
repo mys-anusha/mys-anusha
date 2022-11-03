@@ -55,6 +55,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&username=mys-anusha" height="150" alt="languages graph"  />
 </div>
 
+## 📈 Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mys-anusha&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mys-anusha&hide_border=true&theme=radical" />
+</p>
+
 ###
 
 <img src="https://raw.githubusercontent.com/mys-anusha/mys-anusha/blob/output/snake.svg" alt="Snake animation" />
