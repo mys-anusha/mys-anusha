@@ -68,7 +68,6 @@
 ###
 
 [![@mys_anusha's Holopin board](https://holopin.me/mys_anusha)](https://holopin.io/@mys_anusha)
-
 ###
 
 <p align="left">Thank you! :)</p>
