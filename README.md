@@ -1,5 +1,5 @@
 
-## Hello everyone!  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> /n I am [Anusha](https://www.linkedin.com/in/anusha-m-m-012545200/). Welcome to my GitHub page.
+## Hello everyone!  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> I am [Anusha](https://www.linkedin.com/in/anusha-m-m-012545200/). Welcome to my GitHub page.
 ###
 
 <p align="left">I'm Anusha M M, a pre-final year electrical and electronics engineering student from The National Institute of Engineering, Mysuru.</p>
